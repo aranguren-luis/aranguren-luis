@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-My name is Luis and I am an Information Engineer and Higher Technician in Computer Science graduated from the Technological University of the
-center (UNITEC), Frontend developer. In search of job opportunities to be part of an excellent team that raises my training to the next level, 
-my main interest is the programming and administration of software projects.
+Ingeniero en información con experiencia en telecomunicaciones , manejo de redes empresariales, Soporte y administración de centrales telefónicas. Poseo habilidades en el desarrollo de proyectos de software con React.js, Laravel(PHP) y automatizacion y control industrial con Node-RED
 
 <p align="left"> 
   <a href="https://github.com/aranguren-luis/aranguren-luis">
