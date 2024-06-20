@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Ingeniero en información con experiencia en telecomunicaciones , manejo de redes empresariales, Soporte y administración de centrales telefónicas. Poseo habilidades en el desarrollo de proyectos de software con React.js, Laravel(PHP) y automatizacion y control industrial con Node-RED
+Ingeniero en información con experiencia en telecomunicaciones , manejo de redes empresariales, Soporte y administración de centrales telefónicas. Poseo habilidades en el desarrollo de proyectos de software con React.js, Laravel(PHP) como tambien automatizacion y control industrial con Node-RED
 
 <p align="left"> 
   <a href="https://github.com/aranguren-luis/aranguren-luis">
