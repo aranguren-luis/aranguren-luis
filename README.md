@@ -13,4 +13,3 @@ Ingeniero en información con experiencia en telecomunicaciones , manejo de rede
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=aranguren-luis&show_icons=ture&count_private=true" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aranguren-luis&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
