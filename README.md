@@ -1,67 +1,73 @@
-<h1> Hi there 
-
+<h1 align="center">
+  👋 Hi there, I’m Luis Aranguren 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
- 
-  
+
 <div align="center">
-
-<div>
-<img src =https://github.com/aranguren-luis/aranguren-luis/blob/main/Banner.png alt ="Me">
+  <img src="https://github.com/aranguren-luis/aranguren-luis/blob/main/Banner.png" alt="Luis Aranguren" width="100%"/>
 </div>
- </div>
 
-## Table of contents
-- [Bio](https://github.com/aranguren-luis/aranguren-luis/edit/main/README.md#bio)
-- [Skills](https://github.com/aranguren-luis/aranguren-luis/edit/main/README.md#skills)
-- [Tools](https://github.com/aranguren-luis/aranguren-luis/edit/main/README.md#tools)
+---
+
+
+1. [Bio](#-bio)  
+2. [Skills & Tools](#️-skills--tools)  
+3. [Connect with Me](#-connect-with-me)  
+
+---
 
 ## Bio
+> “Quality is never an accident; it is always the result of intelligent effort.” – John Ruskin
 
+Hello! I’m **Luis Aranguren**, an Information Engineering graduate turned QA Tester.  
+With **2 years** in IT and **6 months** dedicated to QA, I specialize in:
+- ✅ Functional Testing  
+- 🔍 Exploratory Testing  
+- 🛠️ API & Automation Testing  
+- 🔄 Regression Testing  
 
-Hello! My name is Luis Aranguren. **I am a QA Tester** specializing in functional, exploratory, API, and regression testing.  
+I’ve always been passionate about technology, networks, web development, and gaming. Recently, I dived into **Quality Assurance** to spot defects and elevate software standards. I’m currently leveling up my automation skills with **Playwright** and **Selenium**.
 
-I have always been passionate about technology, computer networks, the web, and video games. Recently, I transitioned into Quality Assurance with the goal of identifying defects and improving software projects. I’m currently expanding my skill set by learning QA automation with **Playwright** and **Selenium**.  
+> **Medium-term goal:** Become a fully-fledged **QA Engineer**, blending technical know-how with rigorous testing practices to deliver flawless software.
 
-In the medium term, I aim to grow into a full-fledged QA Engineer, combining my technical background and hands-on testing experience to deliver high-quality software.
+---
 
-📫 **How to reach me:**
+## Skills & Tools
 
-- ⛩️ See my profile in **[LinkedIn](https://www.linkedin.com/in/aranguren-luis/)**
-  
-- 📧 **My E-Mail:** luis.aranguren@hotmail.com
+### 🧪 Testing Frameworks & Automation  
+![Playwright](https://img.shields.io/badge/Playwright-333333?style=for-the-badge&logo=playwright)  
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
-__________________________________________________________________________________________________________________
+### 💻 Programming & Scripting  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
-__________________________________________________________________________________________________________________
+### 🔧 Manual & Exploratory Testing  
+- 🗂️ Test case design & execution  
+- 🕵️‍♂️ Bug hunting & reporting  
+- 🎯 Usability & accessibility validation
 
- ## 🛠️ Skills:
+### 🌐 API Testing & Integration  
+![REST API](https://img.shields.io/badge/REST%20API-6BA539?style=for-the-badge&logo=rest)  
+- Automated validations with Postman/Newman  
+- JSON schema & response assertions
 
- ### Automation Testing:
- 
-- **API Automation with Postman**
-  
-- **Playwright (learning in porgress)**
-  
-- **OOP Python**
-  
-- Automated tests and **DOM manipulation with Javascript and DevTools**
+---
 
-### Manual Testing:
+## 📫 Connect with Me
 
-- Exploratory testing
+<div align="center">
+  <a href="https://www.linkedin.com/in/aranguren-luis/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:luis.aranguren@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
--  Functional and usability testing of web applications
-  
--  Regression testing
-    
+---
 
-### API Testing:
-
-- **Manual and Automation Testing** with **Postman**
-- **API Documentation** in **Swagger**
-
-
-### Agile Methodologies:
-
-- Familiar with **Scrum** and **Kanban**.
+<p align="center">
+  ❤️ Colossians 3:23
+</p>
