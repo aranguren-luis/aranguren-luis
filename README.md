@@ -32,3 +32,36 @@ In the medium term, I aim to grow into a full-fledged QA Engineer, combining my 
 - 📧 **My E-Mail:** luis.aranguren@hotmail.com
 
 __________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________
+
+ ## 🛠️ Skills:
+
+ ### Automation Testing:
+ 
+- **API Automation with Postman**
+  
+- **Playwright (learning in porgress)**
+  
+- **OOP Python**
+  
+- Automated tests and **DOM manipulation with Javascript and DevTools**
+
+### Manual Testing:
+
+- Exploratory testing
+
+-  Functional and usability testing of web applications
+  
+-  Regression testing
+    
+
+### API Testing:
+
+- **Manual and Automation Testing** with **Postman**
+- **API Documentation** in **Swagger**
+
+
+### Agile Methodologies:
+
+- Familiar with **Scrum** and **Kanban**.
