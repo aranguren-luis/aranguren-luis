@@ -36,11 +36,9 @@ I’ve always been passionate about technology, networks, web development, and g
 
 ### 🧪 Testing Frameworks & Automation  
 ![Playwright](https://img.shields.io/badge/Playwright-333333?style=for-the-badge&logo=playwright)  
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ### 💻 Programming & Scripting  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
 ### 🔧 Manual & Exploratory Testing  
