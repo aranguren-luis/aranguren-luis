@@ -9,7 +9,6 @@
 
 ---
 
-
 1. [Bio](#-bio)  
 2. [Skills & Tools](#️-skills--tools)  
 3. [Connect with Me](#-connect-with-me)  
@@ -21,6 +20,7 @@
 
 Hello! I’m **Luis Aranguren**, an Information Engineering graduate turned QA Tester.  
 With **2 years** in IT and **6 months** dedicated to QA, I specialize in:
+
 - ✅ Functional Testing  
 - 🔍 Exploratory Testing  
 - 🛠️ API & Automation Testing  
@@ -29,6 +29,8 @@ With **2 years** in IT and **6 months** dedicated to QA, I specialize in:
 I’ve always been passionate about technology, networks, web development, and gaming. Recently, I dived into **Quality Assurance** to spot defects and elevate software standards. I’m currently leveling up my automation skills with **Playwright** and **Selenium**.
 
 > **Medium-term goal:** Become a fully-fledged **QA Engineer**, blending technical know-how with rigorous testing practices to deliver flawless software.
+
+Along the way, I’ve strengthened my **version control skills** with Git, mastering workflows like branching, pull requests, and SSH authentication to keep my projects organized and collaborative.
 
 ---
 
@@ -50,6 +52,14 @@ I’ve always been passionate about technology, networks, web development, and g
 ![REST API](https://img.shields.io/badge/REST%20API-6BA539?style=for-the-badge&logo=rest)  
 - Automated validations with Postman/Newman  
 - JSON schema & response assertions
+
+### 🗂️ Version Control & DevOps  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)  
+- Git workflows: branching, merging, pull requests  
+- SSH key authentication & agent configuration  
+- VS Code extensions: GitLens, Git Graph, Prettier  
+- Repo management and documentation best practices
 
 ---
 
