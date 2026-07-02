@@ -1,81 +1,94 @@
 <h1 align="center">
-  👋 ¡Hola! Soy Luis Aranguren
+   Hola, Soy  Luis Aranguren 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
-  <img src="https://github.com/aranguren-luis/aranguren-luis/blob/main/Banner.png" alt="Luis Aranguren" width="100%"/>
-</div>
+---
+
+## Sobre mí
+
+> Ingeniero en Información especialista en **Quality Assurance**. Cuento con experiencia en **pruebas de caja negra, caja gris y caja blanca**, así como en la validación de **APIs**, pruebas funcionales y automatización con **Playwright**. He participado activamente en más de **11 proyectos** corporativos, asegurando la calidad en plataformas web, aplicaciones móviles y sistemas internos.
+>
+> Mi enfoque va más allá de la detección de defectos: **diseño estrategias de calidad** que integran análisis de requisitos, planificación de pruebas y métricas de rendimiento, alineadas con metodologías ágiles (Scrum/Kanban). Mi objetivo es que cada entrega no solo cumpla con los estándares técnicos, sino que **supere las expectativas del negocio y del usuario final**.
 
 ---
 
-1. [Biografía](#-biografía)  
-2. [Habilidades y Herramientas](#️-habilidades--herramientas)  
-3. [Conecta conmigo](#-conecta-conmigo)  
+## Competencias técnicas
+
+### Tipos de pruebas
+| | |
+|---|---|
+| **Caja negra** | Validación funcional sin acceso al código interno. |
+| **Caja gris** | Combinación de enfoques con conocimiento parcial de la estructura. |
+| **Caja blanca** | Análisis interno del código para pruebas estructurales. |
+| **API e integración** | Validación de contratos, esquemas JSON y flujos entre servicios. |
+| **Autenticación y seguridad** | Pruebas de flujos de autenticación, autorización y vulnerabilidades comunes. |
+
+### Automatización y herramientas
+**Playwright** · **Postman** · **JavaScript** · **Newman** · **GitHub Actions CI/CD** · **SonarCloud** · **Cucumber (BDD)**
+
+- Automatización de pruebas end‑to‑end con Playwright.
+- Validaciones automatizadas de API con Postman y Newman.
+- Scripting en JavaScript para pruebas personalizadas.
+- Integración continua con GitHub Actions: ejecución automática de pruebas en cada push.
+- Análisis de calidad de código con SonarCloud.
+- Desarrollo guiado por comportamiento (BDD) con Cucumber para alinear pruebas con requisitos de negocio.
+
+### Bases de datos y validación
+- **Consultas SQL** para validación de datos en backends.
+- **Scripts de limpieza** y preparación de datos para entornos de prueba.
+- Verificación de integridad referencial y consistencia post-ejecución.
+
+### Gestión de pruebas y calidad
+- **Planificación y diseño**: casos de prueba, matrices de trazabilidad, especificaciones detalladas.
+- **Estrategias de QA**: creación de planes de prueba, procedimientos estandarizados y métricas de calidad.
+- **Ejecución y seguimiento**: documentación de resultados, informes de ejecución y análisis de tendencias.
+- **Métricas clave**: enfoque en P95, tasa de errores y throughput para evaluar rendimiento y fiabilidad.
+- **Reportes reproducibles**: generación de informes en HTML, JSON y formatos avanzados, publicados en GitHub Pages para facilitar el seguimiento y la colaboración.
+- **Herramientas de gestión**: ClickUp, YouTrack.
+
+### Metodologías ágiles
+- **Scrum**: participación en todas las ceremonias (planificación, daily, revisión, retrospectiva).
+- **Kanban**: gestión de flujo continuo y priorización dinámica.
+- Colaboración activa con equipos multidisciplinarios (desarrollo, producto, diseño).
+
+### Control de versiones
+**Git** · **GitHub**
+
+- Flujo de trabajo con ramas, pull requests y revisiones de código.
+- Publicación de reportes y artefactos en GitHub Pages.
 
 ---
 
-## Biografía
-> “La calidad nunca es un accidente; siempre es el resultado de un esfuerzo inteligente.” – John Ruskin
+## Proyectos
 
-¡Hola! Soy **Luis Aranguren**, un graduado en Ingeniería Informática convertido en Tester de QA.  
-Con **2 años** en TI y **6 meses** dedicados al QA, me especializo en:
-
-- ✅ Pruebas funcionales  
-- 🔍 Pruebas exploratorias  
-- 🛠️ Pruebas de API y automatización  
-- 🔄 Pruebas de regresión  
-
-Siempre me ha apasionado la tecnología, las redes, el desarrollo web y los videojuegos. Recientemente, me he sumergido en el **Aseguramiento de la Calidad (QA)** para identificar defectos y elevar los estándares de software. Actualmente, estoy mejorando mis habilidades de automatización con **Playwright** y **Selenium**.
-
-> **Objetivo a medio plazo:** Convertirme en un **Ingeniero de QA** completamente formado, combinando mis conocimientos técnicos con prácticas rigurosas de prueba para ofrecer software impecable.
-
-En el camino, he fortalecido mis **habilidades de control de versiones** con Git, dominando flujos de trabajo como la creación de ramas, solicitudes de extracción (pull requests) y autenticación SSH para mantener mis proyectos organizados y colaborativos.
+- Pagosfibex
+- Toques
+- Landing Page Fibex
+- Club Fibex
+- Intranet
+- Landing Page Fibex República Dominicana
+- Prismetric
+- QR Técnicos
+- Sofía
+- Integracion api BHD
 
 ---
 
-## Habilidades y Herramientas
+## 📫 Conectemos
 
-### 🧪 Frameworks de Pruebas y Automatización  
-![Playwright](https://img.shields.io/badge/Playwright-333333?style=for-the-badge&logo=playwright)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-
-### 💻 Programación y Scripting  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-
-### 🔧 Pruebas Manuales y Exploratorias  
-- 🗂️ Diseño y ejecución de casos de prueba  
-- 🕵️‍♂️ Caza de errores y reporte de incidencias  
-- 🎯 Validación de usabilidad y accesibilidad
-
-### 🌐 Pruebas de API e Integración  
-![REST API](https://img.shields.io/badge/REST%20API-6BA539?style=for-the-badge&logo=rest)  
-- Validaciones automatizadas con Postman/Newman  
-- Aserciones de esquemas JSON y de respuestas
-
-### 🗂️ Control de Versiones y DevOps  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)  
-- Flujos de trabajo de Git: ramificación, fusión (merging), solicitudes de extracción (pull requests)  
-- Autenticación con clave SSH y configuración del agente  
-- Extensiones de VS Code: GitLens, Git Graph, Prettier  
-- Gestión de repositorios y mejores prácticas de documentación
-
----
-
-## 📫 Conecta conmigo
-
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/aranguren-luis/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:luis.aranguren@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo electrónico"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"/>
   </a>
-</div>
+</p>
 
 ---
 
 <p align="center">
-  ❤️ Colosenses 3:23
+  <em>“Y todo lo que hagáis, hacedlo de corazón, como para el Señor y no para los hombres;.”</em><br>
+  <strong>Colosenses 3:23  ❤️</strong>
 </p>
