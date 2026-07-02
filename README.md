@@ -60,7 +60,7 @@
 
 ---
 
-## Proyectos
+## 📂 Proyectos Destacados
 
 - Pagosfibex
 - Toques
