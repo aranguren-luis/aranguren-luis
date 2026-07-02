@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Hi there, I’m Luis Aranguren 
+  👋 ¡Hola! Soy Luis Aranguren
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -9,73 +9,73 @@
 
 ---
 
-1. [Bio](#-bio)  
-2. [Skills & Tools](#️-skills--tools)  
-3. [Connect with Me](#-connect-with-me)  
+1. [Biografía](#-biografía)  
+2. [Habilidades y Herramientas](#️-habilidades--herramientas)  
+3. [Conecta conmigo](#-conecta-conmigo)  
 
 ---
 
-## Bio
-> “Quality is never an accident; it is always the result of intelligent effort.” – John Ruskin
+## Biografía
+> “La calidad nunca es un accidente; siempre es el resultado de un esfuerzo inteligente.” – John Ruskin
 
-Hello! I’m **Luis Aranguren**, an Information Engineering graduate turned QA Tester.  
-With **2 years** in IT and **6 months** dedicated to QA, I specialize in:
+¡Hola! Soy **Luis Aranguren**, un graduado en Ingeniería Informática convertido en Tester de QA.  
+Con **2 años** en TI y **6 meses** dedicados al QA, me especializo en:
 
-- ✅ Functional Testing  
-- 🔍 Exploratory Testing  
-- 🛠️ API & Automation Testing  
-- 🔄 Regression Testing  
+- ✅ Pruebas funcionales  
+- 🔍 Pruebas exploratorias  
+- 🛠️ Pruebas de API y automatización  
+- 🔄 Pruebas de regresión  
 
-I’ve always been passionate about technology, networks, web development, and gaming. Recently, I dived into **Quality Assurance** to spot defects and elevate software standards. I’m currently leveling up my automation skills with **Playwright** and **Selenium**.
+Siempre me ha apasionado la tecnología, las redes, el desarrollo web y los videojuegos. Recientemente, me he sumergido en el **Aseguramiento de la Calidad (QA)** para identificar defectos y elevar los estándares de software. Actualmente, estoy mejorando mis habilidades de automatización con **Playwright** y **Selenium**.
 
-> **Medium-term goal:** Become a fully-fledged **QA Engineer**, blending technical know-how with rigorous testing practices to deliver flawless software.
+> **Objetivo a medio plazo:** Convertirme en un **Ingeniero de QA** completamente formado, combinando mis conocimientos técnicos con prácticas rigurosas de prueba para ofrecer software impecable.
 
-Along the way, I’ve strengthened my **version control skills** with Git, mastering workflows like branching, pull requests, and SSH authentication to keep my projects organized and collaborative.
+En el camino, he fortalecido mis **habilidades de control de versiones** con Git, dominando flujos de trabajo como la creación de ramas, solicitudes de extracción (pull requests) y autenticación SSH para mantener mis proyectos organizados y colaborativos.
 
 ---
 
-## Skills & Tools
+## Habilidades y Herramientas
 
-### 🧪 Testing Frameworks & Automation  
+### 🧪 Frameworks de Pruebas y Automatización  
 ![Playwright](https://img.shields.io/badge/Playwright-333333?style=for-the-badge&logo=playwright)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
-### 💻 Programming & Scripting  
+### 💻 Programación y Scripting  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
-### 🔧 Manual & Exploratory Testing  
-- 🗂️ Test case design & execution  
-- 🕵️‍♂️ Bug hunting & reporting  
-- 🎯 Usability & accessibility validation
+### 🔧 Pruebas Manuales y Exploratorias  
+- 🗂️ Diseño y ejecución de casos de prueba  
+- 🕵️‍♂️ Caza de errores y reporte de incidencias  
+- 🎯 Validación de usabilidad y accesibilidad
 
-### 🌐 API Testing & Integration  
+### 🌐 Pruebas de API e Integración  
 ![REST API](https://img.shields.io/badge/REST%20API-6BA539?style=for-the-badge&logo=rest)  
-- Automated validations with Postman/Newman  
-- JSON schema & response assertions
+- Validaciones automatizadas con Postman/Newman  
+- Aserciones de esquemas JSON y de respuestas
 
-### 🗂️ Version Control & DevOps  
+### 🗂️ Control de Versiones y DevOps  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)  
-- Git workflows: branching, merging, pull requests  
-- SSH key authentication & agent configuration  
-- VS Code extensions: GitLens, Git Graph, Prettier  
-- Repo management and documentation best practices
+- Flujos de trabajo de Git: ramificación, fusión (merging), solicitudes de extracción (pull requests)  
+- Autenticación con clave SSH y configuración del agente  
+- Extensiones de VS Code: GitLens, Git Graph, Prettier  
+- Gestión de repositorios y mejores prácticas de documentación
 
 ---
 
-## 📫 Connect with Me
+## 📫 Conecta conmigo
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aranguren-luis/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:luis.aranguren@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo electrónico"/>
   </a>
 </div>
 
 ---
 
 <p align="center">
-  ❤️ Colossians 3:23
+  ❤️ Colosenses 3:23
 </p>
