@@ -3,6 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+
 ---
 
 ## Sobre mí
@@ -69,6 +70,13 @@
 | ![Playwright](https://img.shields.io/badge/Playwright-555555?style=flat-square&logo=playwright&logoColor=white) ![WebDriverIO](https://img.shields.io/badge/WebDriverIO-555555?style=flat-square&logo=webdriverio&logoColor=white) <br> ![Appium](https://img.shields.io/badge/Appium-555555?style=flat-square&logo=appium&logoColor=white) | ![Java](https://img.shields.io/badge/Java-555555?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-555555?style=flat-square&logo=javascript&logoColor=white) <br> ![TypeScript](https://img.shields.io/badge/TypeScript-555555?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-555555?style=flat-square&logo=python&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-555555?style=flat-square&logo=githubactions&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-555555?style=flat-square&logo=apachemaven&logoColor=white) <br> ![Docker](https://img.shields.io/badge/Docker-555555?style=flat-square&logo=docker&logoColor=white) ![SonarCloud](https://img.shields.io/badge/SonarCloud-555555?style=flat-square&logo=sonarcloud&logoColor=white) <br> ![Allure](https://img.shields.io/badge/Allure-555555?style=flat-square&logo=allure&logoColor=white) | ![YouTrack](https://img.shields.io/badge/YouTrack-555555?style=flat-square&logo=youtrack&logoColor=white) ![ClickUp](https://img.shields.io/badge/ClickUp-555555?style=flat-square&logo=clickup&logoColor=white) <br> ![Obsidian](https://img.shields.io/badge/Obsidian-555555?style=flat-square&logo=obsidian&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-555555?style=flat-square&logo=confluence&logoColor=white) |
 | **API & Performance** | **Data & Metrics** | **Design & Docs** | **BDD & Testing** |
 | ![Postman](https://img.shields.io/badge/Postman-555555?style=flat-square&logo=postman&logoColor=white) ![Newman](https://img.shields.io/badge/Newman-555555?style=flat-square&logo=postman&logoColor=white) <br> ![Swagger](https://img.shields.io/badge/Swagger-555555?style=flat-square&logo=swagger&logoColor=white) ![REST Assured](https://img.shields.io/badge/REST%20Assured-555555?style=flat-square&logo=restassured&logoColor=white) <br> ![k6](https://img.shields.io/badge/k6-555555?style=flat-square&logo=k6&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-555555?style=flat-square&logo=postgresql&logoColor=white) ![Database](https://img.shields.io/badge/DB-555555?style=flat-square&logo=database&logoColor=white) <br> **P95** · **Error Rate** · **Throughput** | ![Markdown](https://img.shields.io/badge/Markdown-555555?style=flat-square&logo=markdown&logoColor=white) ![Draw.io](https://img.shields.io/badge/Draw.io-555555?style=flat-square&logo=diagramsdotnet&logoColor=white) <br> ![Notion](https://img.shields.io/badge/Notion-555555?style=flat-square&logo=notion&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-555555?style=flat-square&logo=miro&logoColor=white) | ![Cucumber](https://img.shields.io/badge/Cucumber-555555?style=flat-square&logo=cucumber&logoColor=white) ![Gherkin](https://img.shields.io/badge/Gherkin-555555?style=flat-square&logo=gherkin&logoColor=white) <br> ![JUnit](https://img.shields.io/badge/JUnit-555555?style=flat-square&logo=junit5&logoColor=white) |
+
+
+<p align="center">
+  <a href="https://github.com/aranguren-luis/Quality-Assurance-Portfolio">
+    <img src="https://img.shields.io/badge/Portafolio%20QA-555555?style=for-the-badge&logo=github&logoColor=white" alt="Portafolio QA"/>
+  </a>
+</p>
 
 ---
 
